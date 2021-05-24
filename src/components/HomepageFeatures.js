@@ -1,6 +1,7 @@
 import React from "react";
 import clsx from "clsx";
 import styles from "./HomepageFeatures.module.css";
+import "@shoelace-style/shoelace/dist/themes/base.css";
 import SlButton from "@shoelace-style/react/dist/button";
 
 const FeatureList = [
